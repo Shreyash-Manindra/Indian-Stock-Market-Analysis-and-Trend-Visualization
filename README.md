@@ -124,11 +124,7 @@ Interactive dashboard (Streamlit / Dash)
 
 Live auto-updating data pipeline
 
-🗂 Repository Structure
-/
-├── ISE_market_analysis.ipynb     # Main notebook file
-├── README.md                     # Project documentation
-└── data/                         # (Optional) Raw/exported datasets
+
 
 🏁 Conclusion
 
